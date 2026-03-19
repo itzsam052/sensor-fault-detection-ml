@@ -141,6 +141,12 @@ python src/model.py
 - Integration with IoT sensors
 - Use of deep learning models (LSTM for time-series)
 - Deployment using Streamlit dashboard
+  ## 💡 Key Contributions
+
+- Designed a complete ML pipeline from data simulation to prediction
+- Engineered temporal features to capture both sudden and gradual faults
+- Improved fault detection performance using class balancing techniques
+- Evaluated model using confusion matrix and recall-focused metrics
 
 ---
 
