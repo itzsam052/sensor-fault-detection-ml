@@ -65,11 +65,13 @@ To improve model performance, the following features were extracted:
 
 ## 📈 Visualization
 
+
+
 ### Sensor Signal with Faults
-![Signal](""C:\Users\muska\OneDrive\Documents\Desktop\signal.png"")
+![Signal](outputs/plots/signal.png)
 
 ### Confusion Matrix
-![Confusion]("C:\Users\muska\OneDrive\Documents\Desktop\confusion matrix.png")
+![Confusion](outputs/plots/confusion_matrix.png)
 ## 📊 Results
 
 - Accuracy: **85%**
