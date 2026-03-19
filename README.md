@@ -6,7 +6,16 @@ This project presents a Machine Learning-based system for detecting faults in se
 
 The goal is to build a reliable fault detection system that can assist in predictive maintenance and reduce system failures.
 
+
 ---
+
+## 📊 Results Preview
+
+### Sensor Signal with Faults
+![Signal](outputs/plots/signal.png)
+
+### Confusion Matrix
+![Confusion](outputs/plots/confusion_matrix.png)
 ## 🌍 Industrial Importance
 
 Sensor fault detection is critical in modern industrial systems, where incorrect sensor readings can lead to system failures, safety risks, and increased maintenance costs.
