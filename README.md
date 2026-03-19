@@ -7,6 +7,15 @@ This project presents a Machine Learning-based system for detecting faults in se
 The goal is to build a reliable fault detection system that can assist in predictive maintenance and reduce system failures.
 
 ---
+## 🌍 Industrial Importance
+
+Sensor fault detection is critical in modern industrial systems, where incorrect sensor readings can lead to system failures, safety risks, and increased maintenance costs.
+
+Machine learning-based fault detection enables:
+- Early detection of anomalies
+- Reduction in downtime
+- Improved system reliability
+- Support for predictive maintenance
 
 ## ⚙️ Problem Statement
 In industrial environments, sensors are used to monitor parameters like temperature, pressure, and vibration. Faulty sensor readings can lead to incorrect decisions and system failures.
