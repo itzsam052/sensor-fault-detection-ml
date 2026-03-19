@@ -63,6 +63,13 @@ To improve model performance, the following features were extracted:
 
 ---
 
+## 📈 Visualization
+
+### Sensor Signal with Faults
+![Signal](outputs/plots/signal.png)
+
+### Confusion Matrix
+![Confusion](outputs/plots/confusion_matrix.png)
 ## 📊 Results
 
 - Accuracy: **85%**
