@@ -5,18 +5,10 @@
 This project presents a Machine Learning-based system for detecting faults in sensor data. It focuses on identifying abnormal patterns such as sudden spikes and gradual drift in time-series signals, which are common in industrial systems.
 
 This project demonstrates how machine learning can be applied to real-world industrial problems such as predictive maintenance and anomaly detection in sensor systems.
-The goal is to build a reliable fault detection system that can assist in predictive maintenance and reduce system failures.
+The goal is to build a reliable fault detection system that can assist in predictive maintenance and reduce system failing 
 
 
----
 
-## 📊 Results Preview
-
-### Sensor Signal with Faults
-![Signal](outputs/plots/signal.png)
-
-### Confusion Matrix
-![Confusion](outputs/plots/confusion_matrix.png)
 ## 🌍 Industrial Importance
 
 Sensor fault detection is critical in modern industrial systems, where incorrect sensor readings can lead to system failures, safety risks, and increased maintenance costs.
