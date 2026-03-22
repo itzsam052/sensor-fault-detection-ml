@@ -44,7 +44,18 @@ The system follows a complete Machine Learning pipeline:
 * Efficient in handling large and complex sensor datasets
 * Provides reliable predictions for early fault detection
 
-*(Add your actual accuracy and confusion matrix screenshot here)*
+## accuracy chart
+      precision    recall  f1-score   support
+
+         0.0       0.87      0.93      0.90       141
+         1.0       0.80      0.68      0.73        59
+
+    accuracy                           0.85       200
+   macro avg       0.84      0.80      0.82       200
+weighted avg       0.85      0.85      0.85       200
+# confusion matrix
+"C:\Users\muska\OneDrive\Documents\Desktop\confusion matrix.png"
+
 
 ---
 
