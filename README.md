@@ -56,7 +56,7 @@ weighted avg       0.85      0.85      0.85       200
 ## 🖥️ Project Output
 
 ### 📊 Model Prediction Output
-![Model Output]
+![Model Output]https://github.com/itzsam052/sensor-fault-detection-ml/blob/5dce1353ac6385290569192d4a63df68963d73a5/predictions.csv
 
 ### 📉 Confusion Matrix
 ![Confusion Matrix]https://github.com/itzsam052/sensor-fault-detection-ml/blob/d6dc6f0f385655adf66b8ad502ceec350112c16c/confusion%20matrix.png
