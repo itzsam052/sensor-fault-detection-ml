@@ -37,10 +37,30 @@ The system follows a complete Machine Learning pipeline:
    * End-to-end pipeline for real-time fault prediction
 
 ---
+.
+## 🌳 Why Random Forest Classifier?
 
-### 🧠 Model Used
+Random Forest Classifier was chosen for this project due to its strong performance on structured and non-linear data.
 
-Random Forest Classifier was used due to its robustness and ability to handle non-linear data.
+### 🔍 Reasons:
+
+- **Handles Non-Linearity:**  
+  Sensor data contains complex patterns. Random Forest can capture non-linear relationships effectively.
+
+- **Robust to Noise:**  
+  Sensor readings often contain noise and fluctuations. Random Forest reduces noise impact by averaging multiple decision trees.
+
+- **Prevents Overfitting:**  
+  Unlike a single decision tree, Random Forest generalizes better and avoids overfitting.
+
+- **Works Well with Feature Engineering:**  
+  The model performs well with statistical features like rolling mean, standard deviation, and differences.
+
+- **Minimal Preprocessing Required:**  
+  No need for feature scaling, making it efficient and easy to use.
+
+### 🧠 Conclusion
+Random Forest was selected as the final model because it provides reliable and accurate predictions for detecting faulty sensors in real-world scenarios.
 
 ## 📊 Results
 
