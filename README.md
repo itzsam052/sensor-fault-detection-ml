@@ -53,8 +53,13 @@ The system follows a complete Machine Learning pipeline:
     accuracy                           0.85       200
    macro avg       0.84      0.80      0.82       200
 weighted avg       0.85      0.85      0.85       200
-# confusion matrix
-"C:\Users\muska\OneDrive\Documents\Desktop\confusion matrix.png"
+## 🖥️ Project Output
+
+### 📊 Model Prediction Output
+![Model Output](images/output.png)
+
+### 📉 Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
 
 
 ---
