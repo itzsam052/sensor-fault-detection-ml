@@ -87,8 +87,8 @@ This system can help industries:
 ## 🖥️ Demo
 
 Below are sample outputs of the system detecting sensor faults:
-
-
+data on which model is trained:
+![model data]https://github.com/itzsam052/sensor-fault-detection-ml/blob/218b3ec919a956d44a90c48a14e3c273b8dacc15/processed_data.csv
 ---
 
 ## 🛠️ Tech Stack
