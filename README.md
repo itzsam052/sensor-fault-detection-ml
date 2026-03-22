@@ -64,7 +64,18 @@ weighted avg       0.85      0.85      0.85       200
 
 ### 📉 Confusion Matrix
 ![Confusion Matrix]https://github.com/itzsam052/sensor-fault-detection-ml/blob/d6dc6f0f385655adf66b8ad502ceec350112c16c/confusion%20matrix.png
+### 📊 Confusion Matrix Explanation
 
+The confusion matrix is used to evaluate the performance of the classification model.
+
+- True Positive (TP): Model correctly predicts a faulty sensor  
+- True Negative (TN): Model correctly predicts a normal sensor  
+- False Positive (FP): Model incorrectly predicts a fault (false alarm)  
+- False Negative (FN): Model fails to detect an actual fault  
+
+In this project, minimizing False Negatives is critical, as undetected sensor faults can lead to system failures.
+
+The confusion matrix helps in understanding not just accuracy, but also the reliability of the model in real-world scenarios.
 
 ---
 
