@@ -38,6 +38,10 @@ The system follows a complete Machine Learning pipeline:
 
 ---
 
+### 🧠 Model Used
+
+Random Forest Classifier was used due to its robustness and ability to handle non-linear data.
+
 ## 📊 Results
 
 * The model successfully identifies faulty sensors with high accuracy
@@ -89,6 +93,12 @@ This system can help industries:
 Below are sample outputs of the system detecting sensor faults:
 data on which model is trained:
 ![model data]https://github.com/itzsam052/sensor-fault-detection-ml/blob/218b3ec919a956d44a90c48a14e3c273b8dacc15/processed_data.csv
+### 🔄 Working Flow
+
+1. Upload sensor dataset (CSV)
+2. Data is preprocessed
+3. Features (rolling mean, std, diff) are calculated
+4. Model predicts fault / no fault
 ---
 
 ## 🛠️ Tech Stack
